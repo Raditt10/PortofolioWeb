@@ -9,7 +9,7 @@ import { Navigation, Pagination } from 'swiper/modules'
 import 'swiper/css'
 import 'swiper/css/navigation'
 import 'swiper/css/pagination'
-import CompetitionCard from './assets/competitionCard';
+import CompetitionCard from './assets/CompetitionCard';
 
 
 // Register GSAP plugin
