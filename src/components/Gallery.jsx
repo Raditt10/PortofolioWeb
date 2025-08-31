@@ -183,7 +183,7 @@ const Gallery = () => {
                     </div>
                   </div>
                   <div className="text-xs text-gray-600 hover:underline">
-                    @g0.d_usopp.ps
+                    @radittt_xxyu
                   </div>
                 </div>
               </a>
