@@ -6,7 +6,7 @@ const techstack = [
   { id: 1, name: "React", category: "Frontend", level: "Intermediate", src: "https://cdn.simpleicons.org/react/61DAFB", color: "#61DAFB" },
   { id: 2, name: "Next.js", category: "Fullstack", level: "Intermediate", src: "https://cdn.simpleicons.org/nextdotjs/000000", color: "#000000" },
   { id: 3, name: "TypeScript", category: "Language", level: "Advanced", src: "https://cdn.simpleicons.org/typescript/3178C6", color: "#3178C6" },
-  { id: 4, name: "Tailwind CSS", category: "Frontend", level: "Advanced", src: "https://cdn.simpleicons.org/tailwindcss/06B6D4", color: "#06B6D4" },
+  { id: 4, name: "Tailwind", category: "Frontend", level: "Advanced", src: "https://cdn.simpleicons.org/tailwindcss/06B6D4", color: "#06B6D4" },
   { id: 5, name: "Node.js", category: "Backend", level: "Intermediate", src: "https://cdn.simpleicons.org/nodedotjs/339933", color: "#339933" },
   { id: 6, name: "MongoDB", category: "Database", level: "Intermediate", src: "https://cdn.simpleicons.org/mongodb/47A248", color: "#47A248" },
   { id: 7, name: "Git", category: "Tools", level: "Intermediate", src: "https://cdn.simpleicons.org/git/F05032", color: "#F05032" },
